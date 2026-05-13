@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://neomam.github.io/resources-r39d25/sitemap.xml
